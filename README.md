@@ -1,3 +1,3 @@
-# moral-framing-study
+# moral-study
 
 2_moral
